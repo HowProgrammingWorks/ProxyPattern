@@ -1,0 +1,2 @@
+# ProxyPattern
+GoF Proxy Pattern
